@@ -1,7 +1,5 @@
 # Hey, I'm John Pioc 👋🏼
 
----
-
 I'm a 2nd year Bachelor of Computer Science student @ University of Queensland. 
 
 I'm currently keeping my career path options open, with a keen interest in backend web development and machine learning.
