@@ -9,10 +9,6 @@ I'm currently keeping my career path options open, with a keen interest in backe
 - Data Structures and Algorithms with Java (see [repo](https://github.com/johnpioc/data-structures-and-algorithms))
 - Cloud Computing and AWS
 
-🔨 **I'm currently bulding:**
-
-- Finances Tracker with Python and SQL (see [repo](https://github.com/johnpioc/python-finances-tracker))
-
 📚 **I'm proficient in:**
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,react)](https://skillicons.dev)
