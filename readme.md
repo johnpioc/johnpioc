@@ -2,20 +2,11 @@
 
 I'm a 2nd year Bachelor of Computer Science student @ University of Queensland. 
 
-I'm currently keeping my career path options open, with a keen interest in backend web development and machine learning.
+My career path options are open, but I've got a keen interest in backend web development and machine learning.
 
-💻 **I recently finished working on:**
+🌱 **I'm currently working on:** Competitive Programming - in preparation for two major competitive programming events in early 2025.
 
-- Data Structures and Algorithms with Java (see [repo](https://github.com/johnpioc/data-structures-and-algorithms))
-
-🌱 **I'm currently learning:**
-
-- Cloud Computing and AWS
-- Java Spring
-
-✏️ **I'm currently working on:**
-
-- Data Structures & Algorithms Visualiser (see [repo](https://github.com/johnpioc/dsa-visualiser))
+- Codeforces Solutions (see [repo](https://github.com/johnpioc/codeforces))
 
 📚 **I'm proficient in:**
 
