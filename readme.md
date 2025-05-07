@@ -1,13 +1,10 @@
 # Hey, I'm John Pioc 👋🏼
 
-I'm a 2nd year Bachelor of Computer Science student @ University of Queensland. 
+I'm a second year computer science & mathematics student at the University of Queensland. 
 
-My career path options are open, but I've got a keen interest in backend web development and machine learning.
+I'm aspiring to break into quantitative finance as a software enginerr, therefore my coursework focuses on low-latency, high-performance computing such as operating systems, networks, low-level programming and compilers/interpreters.
 
-🌱 **I'm currently working on:** Competitive Programming - in preparation for two major competitive programming events in early 2025.
+Outside of university, I like to read computer-science textbooks to supplement my learning, competitive programming through LeetCode and Codeforces, and building personal projects centered about quantitative finance development and trading. 
 
-- Codeforces Solutions (see [repo](https://github.com/johnpioc/codeforces))
+**Skills: ** C/C++, Java, Python, MySQL
 
-📚 **I'm proficient in:**
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,react)](https://skillicons.dev)
