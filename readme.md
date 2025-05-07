@@ -6,5 +6,5 @@ I'm aspiring to break into quantitative finance as a software enginerr, therefor
 
 Outside of university, I like to read computer-science textbooks to supplement my learning, competitive programming through LeetCode and Codeforces, and building personal projects centered about quantitative finance development and trading. 
 
-**Skills: ** C/C++, Java, Python, MySQL
+**Skills:** C/C++, Java, Python, MySQL
 
